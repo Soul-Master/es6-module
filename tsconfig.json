@@ -3,9 +3,7 @@
         "target": "es2015",
         "module": "es2015",
         "noImplicitAny": false,
-        "sourceMap": true,
-        "alwaysStrict": true,
-        "types": [],
-        "noEmit": true
-    }
+        "alwaysStrict": true
+    },
+    "compileOnSave": true
 }
